@@ -1,0 +1,3 @@
+author = Stepa_step
+version = 0.1
+displayName = DeltaruneMod
